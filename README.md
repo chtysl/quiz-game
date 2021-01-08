@@ -1,5 +1,5 @@
 # quiz-game
-
+Frontend Masters Vue.js Quiz game project.
 ## Project setup
 ```
 yarn install
